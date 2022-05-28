@@ -1,0 +1,26 @@
+.milipuski {
+    font-size: 80%;
+    margin-top: -10px;
+}
+
+.hui { font-size: 120%; }
+.hui2 { font-size:  150%; }
+.fig { text-align: center;}
+.opa {
+    text-align: center;
+    margin-top: 1500px;
+    font-size: medium;
+}
+
+.otstup {
+    margin-top: 50px;
+}
+
+p {
+    font-size: 110%;
+}
+ .frame {
+    border-style: double;
+    border-color: #800000;
+    text-align: center;
+ }
